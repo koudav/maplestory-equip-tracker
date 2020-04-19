@@ -1,0 +1,1 @@
+The purpose of this tool is to provide a user-friendly way for Maplestory players on the Reboot server to share and keep track of their equipment stats.
